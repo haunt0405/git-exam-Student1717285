@@ -1,4 +1,3 @@
-# git-exam-Student1717285
 # Git Practical Examination
 ## Overview
 This repository is created for the Git practical examination.
@@ -9,7 +8,7 @@ merging, conflict resolution, and commit history manipulation.
 ---
 ## Project Structure
 The repository initially contains the following files:
-- readme.md
-- Additional files may be added during the examination
+- readme.md (main project documentation file)
+- Additional files may be added during the examination (created during exam)
 Each file must be properly tracked using Git.
 ---
